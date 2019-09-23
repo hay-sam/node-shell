@@ -1,0 +1,22 @@
+{
+  "name": "hey",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bash.js",
+  "scripts": {
+    "test": "request"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hay-sam/node-shell.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hay-sam/node-shell/issues"
+  },
+  "homepage": "https://github.com/hay-sam/node-shell#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
